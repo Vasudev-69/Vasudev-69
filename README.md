@@ -4,7 +4,7 @@
 Biomedical Signal Processing, Embedded Systems, and Medical Imaging.
 
 🔬 I’m interested in:
-- ECG / PPG signal processing  
+- ECG /EEG/ PPG signal processing  
 - Biomedical instrumentation  
 - Arduino-based medical devices  
 - Machine Learning in healthcare  
